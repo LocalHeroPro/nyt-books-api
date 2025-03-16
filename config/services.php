@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 return [
 
     /*
@@ -32,6 +34,13 @@ return [
         'notifications' => [
             'bot_user_oauth_token' => env('SLACK_BOT_USER_OAUTH_TOKEN'),
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
+        ],
+    ],
+
+    'nyt' => [
+        'books' => [
+            'url' => env('NYT_BOOKS_API_URL'),
+            'api_key' => env('NYT_BOOKS_API_KEY'),
         ],
     ],
 
