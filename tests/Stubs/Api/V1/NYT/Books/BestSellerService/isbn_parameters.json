@@ -1,0 +1,321 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1,
+  "results": [
+    {
+      "title": "THE INSTITUTE",
+      "description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+      "contributor": "by Stephen King",
+      "author": "Stephen King",
+      "contributor_note": "",
+      "price": "0.00",
+      "age_group": "",
+      "publisher": "Pocket",
+      "isbns": [
+        {
+          "isbn10": "1982110562",
+          "isbn13": "9781982110567"
+        },
+        {
+          "isbn10": "1982110597",
+          "isbn13": "9781982110598"
+        },
+        {
+          "isbn10": "1508279071",
+          "isbn13": "9781508279075"
+        },
+        {
+          "isbn10": "1508279063",
+          "isbn13": "9781508279068"
+        },
+        {
+          "isbn10": "1432870122",
+          "isbn13": "9781432870126"
+        },
+        {
+          "isbn10": "1982110589",
+          "isbn13": "9781982110581"
+        },
+        {
+          "isbn10": "1432870130",
+          "isbn13": "9781432870133"
+        },
+        {
+          "isbn10": "1982110570",
+          "isbn13": "9781982110574"
+        }
+      ],
+      "ranks_history": [
+        {
+          "primary_isbn10": "1982110570",
+          "primary_isbn13": "9781982110574",
+          "rank": 9,
+          "list_name": "Mass Market Monthly",
+          "display_name": "Mass Market",
+          "published_date": "2021-09-12",
+          "bestsellers_date": "2021-08-28",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110570",
+          "primary_isbn13": "9781982110574",
+          "rank": 3,
+          "list_name": "Mass Market Monthly",
+          "display_name": "Mass Market",
+          "published_date": "2021-08-15",
+          "bestsellers_date": "2021-07-31",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 12,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2021-01-10",
+          "bestsellers_date": "2020-12-26",
+          "weeks_on_list": 16,
+          "rank_last_week": 15,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 15,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2021-01-03",
+          "bestsellers_date": "2020-12-19",
+          "weeks_on_list": 15,
+          "rank_last_week": 12,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 12,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-12-27",
+          "bestsellers_date": "2020-12-12",
+          "weeks_on_list": 14,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 8,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-12-13",
+          "bestsellers_date": "2020-11-28",
+          "weeks_on_list": 13,
+          "rank_last_week": 6,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 6,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-12-06",
+          "bestsellers_date": "2020-11-21",
+          "weeks_on_list": 12,
+          "rank_last_week": 4,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 4,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-11-29",
+          "bestsellers_date": "2020-11-14",
+          "weeks_on_list": 11,
+          "rank_last_week": 5,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 5,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-11-22",
+          "bestsellers_date": "2020-11-07",
+          "weeks_on_list": 10,
+          "rank_last_week": 5,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 5,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-11-15",
+          "bestsellers_date": "2020-10-31",
+          "weeks_on_list": 9,
+          "rank_last_week": 6,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 6,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-11-08",
+          "bestsellers_date": "2020-10-24",
+          "weeks_on_list": 8,
+          "rank_last_week": 3,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 3,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-11-01",
+          "bestsellers_date": "2020-10-17",
+          "weeks_on_list": 7,
+          "rank_last_week": 2,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 2,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-10-25",
+          "bestsellers_date": "2020-10-10",
+          "weeks_on_list": 6,
+          "rank_last_week": 1,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 1,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-10-18",
+          "bestsellers_date": "2020-10-03",
+          "weeks_on_list": 5,
+          "rank_last_week": 1,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 1,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-10-11",
+          "bestsellers_date": "2020-09-26",
+          "weeks_on_list": 4,
+          "rank_last_week": 1,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 1,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-10-04",
+          "bestsellers_date": "2020-09-19",
+          "weeks_on_list": 3,
+          "rank_last_week": 1,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 1,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-09-27",
+          "bestsellers_date": "2020-09-12",
+          "weeks_on_list": 2,
+          "rank_last_week": 6,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110589",
+          "primary_isbn13": "9781982110581",
+          "rank": 6,
+          "list_name": "Trade Fiction Paperback",
+          "display_name": "Paperback Trade Fiction",
+          "published_date": "2020-09-20",
+          "bestsellers_date": "2020-09-05",
+          "weeks_on_list": 1,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110562",
+          "primary_isbn13": "9781982110567",
+          "rank": 14,
+          "list_name": "Hardcover Fiction",
+          "display_name": "Hardcover Fiction",
+          "published_date": "2020-03-01",
+          "bestsellers_date": "2020-02-15",
+          "weeks_on_list": 22,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "1982110562",
+          "primary_isbn13": "9781982110567",
+          "rank": 13,
+          "list_name": "Hardcover Fiction",
+          "display_name": "Hardcover Fiction",
+          "published_date": "2020-02-16",
+          "bestsellers_date": "2020-02-01",
+          "weeks_on_list": 21,
+          "rank_last_week": 14,
+          "asterisk": 0,
+          "dagger": 0
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "https:\/\/www.nytimes.com\/2019\/09\/08\/books\/review-institute-stephen-king.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    }
+  ]
+}
